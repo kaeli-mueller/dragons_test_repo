@@ -1,5 +1,6 @@
 manuscript/
 output/
+raw_data/
 *.png
 .Rhistory
 .Rproj.user/
